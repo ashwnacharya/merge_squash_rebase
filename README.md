@@ -13,3 +13,6 @@ https://github.com/ashwnacharya/merge_squash_rebase/pull/2
 
 Then I created another commit where I added this line. I also edited the previous lines.
 
+
+Now I am adding this line in the first commit of the rebase_and_merge branch.
+
