@@ -19,3 +19,5 @@ Now I am adding this line in the first commit of the rebase_and_merge branch.
 I then created a pull request:
 https://github.com/ashwnacharya/merge_squash_rebase/pull/3
 
+THen I created another commit where I added this line.
+
